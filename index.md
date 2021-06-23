@@ -36,11 +36,10 @@ course, as well as the syllabus.
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com) [an invitation will be sent in the first week]
 - Autograder: [https://autograder.ucsd.edu/](https://autograder.ucsd.edu/)
 
-On an average week in CSE11, you can expect to spend 4-6 hours on videos,
-reading, lecture, and discussion; 2-3 hours on programming practice; and 4-6
-hours working on your programming projects. If you find yourself spending
-dramatically more time than this, it's a good idea to contact the course staff
-and discuss more efficient strategies in office hours.
+On an average week in CSE11, you can expect to spend 8-12 hours on reading, lecture, and discussion; 
+4-6 hours on programming practice; and 8-12 hours working on your programming projects. 
+If you find yourself spending dramatically more time than this, it's a good idea to contact the 
+course staff and discuss more efficient strategies in office hours.
 
 <a id="b:lec"></a>
 
