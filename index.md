@@ -252,7 +252,7 @@ this quarter.
 
 Twice during the quarter and once at the time of the final exam, we will give
 you a short programming assignment that you must complete in a short time frame
-(2-3 days) without any help from other people, including the course staff. You
+(1-2 days) without any help from other people, including the course staff. You
 can use any resources, notes, readings, and past code from the course to help
 in addition to Web-based resources.  Along with submitting the program, you
 will record a short video of yourself presenting the program you wrote,
