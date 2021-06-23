@@ -45,16 +45,14 @@ course staff and discuss more efficient strategies in office hours.
 
 <h3>Lecture</h3>
 
-Lecture content will be presented through live lecture and readings. All lectures will be recorded.  Attendance is encouraged but
-not required. 
+Lecture content will be presented through live lecture and readings. All lectures will be recorded.  
+Attendance is encouraged but not required. 
 
-These will come with associated quizzes that are due on the following
-Monday, Wednesday or Friday at the start of the first originally-scheduled lecture time (8am San Diego time). The
-quizzes are required work to demonstrate your consistent engagement with the
-material. 
+These will come with associated quizzes that are due on Saturday of each week. The
+quizzes are required work to demonstrate your consistent engagement with the material. 
 
-The lecture times are listed below (in the time zone of San Diego). 
-Zoom links for the lectures will be posted in Canvas.
+The lecture time is listed below (in the time zone of San Diego). 
+The Zoom link for the lecture will be posted in Canvas.
 
 <table class="table table-striped">
 <thead>
@@ -93,7 +91,7 @@ Zoom links for the discussion sections will be posted in Canvas.
 <a id="b:disc"></a>
 <h3>Schedule</h3>
 
-The schedule below outlines topics, due dates, and links to assignments. If you check the schedule at the beginning of the week, you’ll know when all reading quizzes, programming assignments, etc. will be due. We will often have the schedule confirmed more than a week out, but we’ll strive to be up to date with the current week.
+The schedule below outlines topics, due dates, and links to assignments. If you check the schedule at the beginning of the week, you’ll know when all reading quizzes, programming assignments, etc. will be due. 
 
 <iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTJUPAO6jmCp7pLYk9I7yl5YOV8UKqVhbd_ueuEV9gmyUMJw5nDMVFc8wDgUi85tncftDlUpUg8e3v2/pubhtml?gid=594704517&single=true&amp;widget=true&amp;headers=false" width="100%" height="800px"></iframe>
 
@@ -108,7 +106,7 @@ The schedule below outlines topics, due dates, and links to assignments. If you 
 <a target="_blank" href="https://gregmiranda.com">Greg Miranda</a> (Instructor)
 </p>
 
-There are 14 staff members (instructor, TAs, and tutors) to help with your learning, and a few kinds of help sessions
+There are 12 staff members (instructor, TA, and tutors) to help with your learning, and a few kinds of help sessions
 you can attend. 
 
 The first is **1-on-1 help hours** where TAs and tutors are available to
@@ -117,7 +115,7 @@ place to go for programming help. At the times below, the course staff will be
 available to answer your questions, and it's a great place to get debugging
 help, since you'll be able to 1-on-1 screenshare with a tutor.
 
-Expect to have about 5 minutes with a tutor or TA: you probably won’t have the solution at the end of the conversation, but you should feel un-stuck and ready to try new approaches.
+Expect to have about 5 minutes with a tutor or TA: you probably won’t have the solution at the end of the conversation, but you should feel un-stuck and ready to try new approaches. The goal of tutoring is to get you unstuck. You can also discuss lecture content and past quizzes with the tutors.
 
 You can see instructions for how we're setting this up for remote access here:
 
@@ -213,8 +211,8 @@ scale for individual students.
 <a id="g:engage"></a>
 <h3>Engagement</h3>
 
-Each lecture will come with an associated quiz. Completing the quiz before the
-next lecture section (8am San Diego time) with at least half of the answers correct gains engagement
+Each week will come with an associated quiz. Completing the quiz before the
+Saturday due date (11:59pm San Diego time) with at least half of the answers correct gains engagement
 credit. You can also get engagement credit by submitting various surveys and
 other small engagement tasks we may ask of you throughout the quarter.
 
@@ -223,7 +221,7 @@ You need to get credit for 80% (ex: 4 out of 5 total) quizzes, surveys, or tasks
 <a id="p:programming"></a>
 <h3>Programming</h3>
 
-Most weeks there will be a programming assignment. Direct practice with
+Every week there will be a programming assignment. Direct practice with
 programming will make up the majority of your work in the course.
 
 Each programming assignment will have a portion that is automatically graded, and a portion that is manually graded by the course staff.
@@ -264,7 +262,7 @@ it (right around PA5, July 16-17). The second time will be in **week 9** with
 Fri/Sat as the days to complete it (July 23-24). The last time will be for a
 few days around our final exam dates (July 30-31).
 
-We **do not** expect that the programming work and recording will take three
+We **do not** expect that the programming work and recording will take two
 days of constant work. The tasks will be significantly shorter than the PAs, so
 this should only take a few hours. We give the broad range to give you the best
 chance to schedule some quiet, focused time to do the work and record the
