@@ -129,7 +129,7 @@ students as possible. They also encourage students to do some meaningful work
 on their own before reaching out for help – the goal of the course is for you
 to be able to do programming work on your own!
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_kulptphaqshnppicbrk3v0rhl8%40group.calendar.google.com&ctz=America%2FLos_Angeles&amp;src=Y18wcmxsaW8yOTgzcnZyazIzbDZvNDJrOTlpc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23EF6C00&amp;color=%230B8043&amp;mode=WEEK&amp;showTz=1&amp;showCalendars=0&amp;showPrint=0&amp;showNav=1&amp;showTabs=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_ntv6hek0um84qqpi1kffq62ctk%40group.calendar.google.com&ctz=America%2FLos_Angeles&amp;src=Y18wcmxsaW8yOTgzcnZyazIzbDZvNDJrOTlpc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23EF6C00&amp;color=%230B8043&amp;mode=WEEK&amp;showTz=1&amp;showCalendars=0&amp;showPrint=0&amp;showNav=1&amp;showTabs=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 The second is through **Piazza**.
 
