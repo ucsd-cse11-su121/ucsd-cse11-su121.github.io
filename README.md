@@ -1,1 +1,1 @@
-The course website for UCSD CSE 11, Spring 2021, A & B sections
+The course website for UCSD CSE 11, Summer 1 2021, A section
