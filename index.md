@@ -219,7 +219,7 @@ next lecture section (8am San Diego time) with at least half of the answers corr
 credit. You can also get engagement credit by submitting various surveys and
 other small engagement tasks we may ask of you throughout the quarter.
 
-You need to get credit for 80% (ex: 29 out of 36 total) quizzes, surveys, or tasks for full engagement credit.
+You need to get credit for 80% (ex: 4 out of 5 total) quizzes, surveys, or tasks for full engagement credit.
 
 <a id="p:programming"></a>
 <h3>Programming</h3>
@@ -260,10 +260,10 @@ demonstrating its behavior and your understanding. We'll give some
 opportunities for practice with this process, and much more detailed
 instructions with the exam release.
 
-The first time will be in **week 6**, with Thu/Fri/Sat as the days to complete
-it (right after PA5, May 6-8). The second time will be in **week 9** with
-Thu/Fri/Sat as the days to complete it (May 27-29). The last time will be for a
-few days around our final exam dates (June 9-11).
+The first time will be in **week 6**, with Fri/Sat as the days to complete
+it (right around PA5, July 16-17). The second time will be in **week 9** with
+Thu/Fri/Sat as the days to complete it (July 23-24). The last time will be for a
+few days around our final exam dates (July 30-31).
 
 We **do not** expect that the programming work and recording will take three
 days of constant work. The tasks will be significantly shorter than the PAs, so
