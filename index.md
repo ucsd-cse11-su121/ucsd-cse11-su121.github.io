@@ -32,7 +32,7 @@ course, as well as the syllabus.
 
 ## Basics
 
-- Q&A Forum: Piazza [https://piazza.com/eng.ucsd/spring2021/cse11/](https://piazza.com/eng.ucsd/spring2021/cse11/)
+- Q&A Forum: Piazza [https://piazza.com/eng.ucsd/spring2021/cse11/](https://piazza.com/eng.ucsd/summer2021/cse11su121/)
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com) [an invitation will be sent in the first week]
 - Autograder: [https://autograder.ucsd.edu/](https://autograder.ucsd.edu/)
 
