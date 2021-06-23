@@ -96,7 +96,7 @@ Zoom links for the discussion sections will be posted in Canvas.
 
 The schedule below outlines topics, due dates, and links to assignments. If you check the schedule at the beginning of the week, you’ll know when all reading quizzes, programming assignments, etc. will be due. We will often have the schedule confirmed more than a week out, but we’ll strive to be up to date with the current week.
 
-<iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRIdv8e-aMmNvjTiuDD_gQc-SDbvJFLvkqpqCpNjUOfdWA3uIxHCcVmJSncgmznlvOG7slccz3v-vD5/pubhtml?gid=594704517&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="800px"></iframe>
+<iframe style="border: none; border-top: 1px solid grey; border-spacing: 2px"  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTJUPAO6jmCp7pLYk9I7yl5YOV8UKqVhbd_ueuEV9gmyUMJw5nDMVFc8wDgUi85tncftDlUpUg8e3v2/pubhtml?gid=594704517&single=true&amp;widget=true&amp;headers=false" width="100%" height="800px"></iframe>
 
 <a id="schedule"></a>
 
