@@ -257,8 +257,8 @@ demonstrating its behavior and your understanding. We'll give some
 opportunities for practice with this process, and much more detailed
 instructions with the exam release.
 
-The first time will be in **week 6**, with Fri/Sat as the days to complete
-it (right around PA5, July 16-17). The second time will be in **week 9** with
+The first time will be in **week 3**, with Fri/Sat as the days to complete
+it (right around PA5, July 16-17). The second time will be in **week 4** with
 Fri/Sat as the days to complete it (July 23-24). The last time will be for a
 few days around our final exam dates (July 30-31).
 
