@@ -216,7 +216,7 @@ Saturday due date (11:59pm San Diego time) with at least half of the answers cor
 credit. You can also get engagement credit by submitting various surveys and
 other small engagement tasks we may ask of you throughout the quarter.
 
-You need to get credit for 80% (ex: 4 out of 5 total) quizzes, surveys, or tasks for full engagement credit.
+You need to get credit for 80% (ex: 8 out of 10 total) quizzes, surveys, or tasks for full engagement credit.
 
 <a id="p:programming"></a>
 <h3>Programming</h3>
