@@ -226,7 +226,7 @@ programming will make up the majority of your work in the course.
 
 Each programming assignment will have a portion that is automatically graded, and a portion that is manually graded by the course staff.
 
-After each assignment's deadline, we will open a resubmission for that assignment for two weeks (this time period may be shorter for assignments near the end of the quarter). You can resubmit to improve your grade. The details of this process will be described along with the grades for the first programming assignment.
+After each assignment's deadline, we will open a resubmission for that assignment for one week (this time period may be shorter for assignments near the end of the quarter). You can resubmit to improve your grade. The details of this process will be described along with the grades for the first programming assignment.
 
 There are 10 PAs total, and their relative weightings that add up to 50% are:
 
