@@ -53,7 +53,7 @@ class CircRegion {
 
 }
 
-class ExamplesRegion2 {
+class ExamplesRegion {
   RectRegion r1 = new RectRegion(new Point(30, 40), new Point(100, 200));
   RectRegion r2 = new RectRegion(new Point(10, 10), new Point(50, 50));
   Point p1 = new Point(10, 10);
@@ -64,7 +64,18 @@ class ExamplesRegion2 {
   Point toTest2 = new Point(20, 20);
   
   // New code from lecture starts here
-  
+  double dTest1 = this.toTest1.distance(this.toTest2);
+
+  boolean bl1 = this.toTest1.belowLeftOf(this.toTest2);
+  boolean bl1Exepct = false;
+
+  boolean bl2 = this.toTest2.belowLeftOf(this.toTest1);
+  boolean bl2Expect = true;
+
+  boolean testBLO(Tester t) {
+    return t.checkExpect(this.toTest1.belowLeftOf(this.toTest2), false) &&
+           t.checkExpect(this.toTest2.belowLeftOf(this.toTest1), true);
+  }
   
   // New code from lecture ends here
 
