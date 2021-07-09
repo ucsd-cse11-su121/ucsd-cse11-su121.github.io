@@ -4,6 +4,7 @@ class Point {
   int x;
   int y;
   Point(int x, int y) {
+    //super();
     this.x = x;
     this.y = y;
   }
@@ -20,8 +21,8 @@ class Point {
 
 interface Region { // Added an interface declaration with the shared method
   boolean contains(Point p);
-  Region add(Region other);
-  Region overlap(Region other);
+  Region add(Region other);         //union
+  Region overlap(Region other);     //intersection
 }
 
 abstract class ARegion implements Region {
@@ -38,6 +39,7 @@ class RectRegion extends ARegion { // Declared "implements Region" (the interfac
   Point lowerLeft;
   Point upperRight;
   RectRegion(Point lowerLeft, Point upperRight) {
+    //super();
     this.lowerLeft = lowerLeft;
     this.upperRight = upperRight;
   }
@@ -50,6 +52,7 @@ class CircRegion extends ARegion {
   Point center;
   int radius;
   CircRegion(Point center, int radius) {
+    //super();
     this.center = center;
     this.radius = radius;
   }
@@ -62,6 +65,7 @@ class UnionRegion extends ARegion {
   Region r1;
   Region r2;
   UnionRegion(Region r1, Region r2) {
+    //super();
     this.r1 = r1;
     this.r2 = r2;
   }
@@ -74,6 +78,7 @@ class IntersectRegion extends ARegion {
   Region r1;
   Region r2;
   IntersectRegion(Region r1, Region r2) {
+    //super();
     this.r1 = r1;
     this.r2 = r2;
   }
@@ -86,6 +91,7 @@ class SquareRegion extends ARegion {
   Point center;
   double sideLength;
   SquareRegion(Point center, double sideLength) {
+    //super();
     this.center = center;
     this.sideLength = sideLength;
   }
@@ -102,6 +108,7 @@ class CircleRegion extends ARegion {
   Point center;
   double radius;
   CircleRegion(Point center, double radius) {
+    //super();
     this.center = center;
     this.radius = radius;
   }
@@ -115,6 +122,32 @@ class ExamplesRegion {
   Region sq = new SquareRegion(new Point(10, 1), 8.);
   Region ur = this.circ1.add(this.sq);
 
+  // To _find_ add method for this.circ1.add:
+  //    - First look in CircleRegion
+  //    - Not found! So look in ARegion, because CircleRegion extends it
+
   //Region ir = new IntersectRegion(this.circ1, this.sq);
   Region ir = this.circ1.overlap(this.sq);
+
+  Region circA = new CircleRegion(new Point(6,  5), 3);
+  Region circB = new CircleRegion(new Point(12, 5), 3);
+  Region circC = new CircleRegion(new Point(18, 5), 3);
+
+  //Region all3Circles = 
+  //  new UnionRegion(this.circA, new UnionRegion(this.circB, this.circC));
+
+  // Region all6Circles = 
+  //   new UnionRegion(this.circA, 
+  //         new UnionRegion(this.circB, 
+  //           new UnionRegion(this.circC, 
+  //             new UnionRegion(this.circD, 
+  //               new UnionRegion(this.circE, this.circF)))));
+
+  Region all3Circles2 = this.circA.add(this.circB).add(this.circC);  
+
+  boolean testAll3CirclesA = this.all3Circles2.contains(new Point(4, 5));
+  boolean testAll3CirclesB = this.all3Circles2.contains(new Point(10, 5));
+  boolean testAll3CirclesC = this.all3Circles2.contains(new Point(20, 5));
+
+
 }

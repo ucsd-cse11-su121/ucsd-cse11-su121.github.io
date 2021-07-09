@@ -20,6 +20,7 @@ class Point {
 
 interface Region { // Added an interface declaration with the shared method
   boolean contains(Point p);
+  Region add(Region r);
 }
 
 class RectRegion implements Region { // Declared "implements Region" (the interface)
@@ -56,6 +57,9 @@ class UnionRegion implements Region {
   public boolean contains(Point p) {
     return this.r1.contains(p) || this.r2.contains(p);
   }
+  public Region add(Region r) {
+    return new UnionRegion(this, r);
+  }  
 }
 
 class IntersectRegion implements Region {
@@ -108,10 +112,34 @@ class CircleRegion implements Region {
   public boolean contains(Point toCheck) {
     return this.center.distance(toCheck) <= this.radius;
   }
+  public Region add(Region r) {
+    return new UnionRegion(this, r);
+  }
 }
 
 class ExamplesRegion {
   Region circ1 = new CircleRegion(new Point(10, 5), 4.0);
   Region sq = new SquareRegion(new Point(10, 1), 8.);
   Region ir = new IntersectRegion(this.circ1, this.sq);
+
+  Region circA = new CircleRegion(new Point(6,  5), 3);
+  Region circB = new CircleRegion(new Point(12, 5), 3);
+  Region circC = new CircleRegion(new Point(18, 5), 3);
+
+  Region all3Circles = 
+    new UnionRegion(this.circA, new UnionRegion(this.circB, this.circC));
+
+  boolean testAll3CirclesA = this.all3Circles.contains(new Point(4, 5));
+  boolean testAll3CirclesB = this.all3Circles.contains(new Point(10, 5));
+  boolean testAll3CirclesC = this.all3Circles.contains(new Point(20, 5));
+
+  // Region all6Circles = 
+  //   new UnionRegion(this.circA, 
+  //         new UnionRegion(this.circB, 
+  //           new UnionRegion(this.circC, 
+  //             new UnionRegion(this.circD, 
+  //               new UnionRegion(this.circE, this.circF)))));
+
+  Region all3Circles2 = this.circA.add(this.circB).add(this.circC);
+
 }
